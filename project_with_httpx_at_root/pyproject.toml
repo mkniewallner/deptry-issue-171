@@ -1,0 +1,11 @@
+[tool.poetry]
+name = "httpx-at-root"
+version = "0.1.0"
+description = ""
+authors = []
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+[tool.poetry.group.dev.dependencies]
+deptry = "0.6.3"
